@@ -1,0 +1,1 @@
+This assignment was built and tested on MacOS. I do not believe some of the libraries used in this assignment will compile on Windows. I would be happy to set up a time to demonstrate my project if the code is unable to run on your systems.
